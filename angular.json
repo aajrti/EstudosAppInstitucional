@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EstudosAppInstitucional"
+    }
+  },
+  "defaultProject": "EstudosAppInstitucional",
+  "cli": {
+    "analytics": "42797266-a914-41f4-bead-2408bb100029"
+  }
 }
