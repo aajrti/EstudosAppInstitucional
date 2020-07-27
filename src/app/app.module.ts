@@ -2,8 +2,10 @@ import { rootRouterConfig } from './app.routes';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import { APP_BASE_HREF } from '@angular/common';
+import { APP_BASE_HREF, registerLocaleData } from '@angular/common';
 import { FormsModule } from "@angular/forms";
+import localPt from '@angular/common/locales/pt';
+registerLocaleData(localPt);
 
 import { ProdutoService } from './produtos/produtos.service';
 import { AppComponent } from './app.component';
