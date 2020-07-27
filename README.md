@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
-## Esse é um pequeno projeto SPA com Angular (v10), apensar para praticar.
+## Esse é um pequeno projeto SPA com Angular (v10), apenas para praticar.
 
 ## Development server
 
